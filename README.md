@@ -1,4 +1,4 @@
 module_nmcli
 ============
 
-FruityWifi NetworkManager client module
+BlackBulb NetworkManager client module
